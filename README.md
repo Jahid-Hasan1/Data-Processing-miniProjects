@@ -1,7 +1,7 @@
-# Data Science Projects
+# Data Processing mini Projects
 ![](https://lh3.googleusercontent.com/yuUrDV2DAtBRvItHZ2FvXMkPbHR5NEt4kXbpp8dgK-r9jI9-irP19GJb2CvdBRYmy41KG4BxFu2Hod9GzdgGc46iYmm7As4bNNsc-JP7vYwY8d1BzHgZdvKR7H4xtLM20zR9gn0PJE-nQU0navp9Xh0pHc3Cp-CjYUENN7dWZ3NJiw8CiHFEJn7Mc0ul_A)
 Welcome,</br>
-Here you can find my repository for data science projects! A selection of my data science projects are included in this repository, demonstrating my abilities and knowledge in the area. A distinct facet of machine learning, data analysis, and visualization is demonstrated in each project.
+Here you can find my repository for data processing projects! A selection of my data science projects are included in this repository, demonstrating my abilities and knowledge in the area. A distinct facet of machine learning, data analysis, and visualization is demonstrated in each project.
 
 ## Projects
 1. Breast Cancer Prediction
